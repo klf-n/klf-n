@@ -4,4 +4,4 @@
 
 
 ## ⛄ Link ㅣ 🔗
-[<img alt="YouTube" width="30px" src="images/yt.png" />](https://www.youtube.com/channel/UCiDHywbp9Kjhr6sVJQ6GjfQ) **[<img alt="Github" width="25px" src="images/gh.png" />](https://github.com/2nun/)** **[[<img alt="Twitter" width="25px" src="images/tw.png" />]](https://twitter.com/2nun_e)**
+[<img alt="YouTube" width="30px" src="images/yt.png" />](https://www.youtube.com/channel/UCiDHywbp9Kjhr6sVJQ6GjfQ) **[<img alt="Github" width="25px" src="images/gh.png" />](https://github.com/2nun/)** **[<img alt="Twitter" width="21px" src="images/tw.png" />](https://twitter.com/2nun_e)**
