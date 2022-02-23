@@ -21,31 +21,3 @@
 
 <h2><strong>📞 Contact Me: </strong></h2>
 <a href="https://discordapp.com/users/888619812677386260"><img src="https://img.shields.io/badge/-2nun%230001-000000?style=flat&logo=discord"/></a>
-
-```css
-.2nun{
-    discord: 2nun#0001;
-    twitter: 2nun_e;
-}
-
-```
-
-
-
-<!-- 
-
-<hr style="width:100%;text-align:left;margin-left:0">
-
-![Metrics](https://github.com/seyawhy/seyawhy/blob/main/github-metrics.svg) -->
-
-<!-- snake
-<a href="https://github.com/SeyaWhy">
-    <center><img src="https://github.com/SeyaWhy/SeyaWhy/blob/snake/snake.svg" alt="snake"/></center>
-</a> -->
-
-<!--
-just a second!
-
-How to Snake Contribution Graph?
--> How_To_Snake_Contribution_Graph.md
--->
