@@ -1,7 +1,51 @@
-# ⛄ 2nun 's Profile ⛄
+<center><h1>2nun's Profile!</h1></center>
 
-- Member of **__[ScordBox](https://scordbox.com)__**
+<a href="https://nodejs.org"><img src="https://cdn.discordapp.com/attachments/913407821335367721/945882430978539540/74ed1c6972f815a4.png" width="300" align="right"></a>
+
+<p>Member of <strong>ScordBox</strong></p>
+
+<br>
+
+<a href="https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv?si=COqUWzrLTo6fTP1d9HXJqg"><img src="https://img.shields.io/badge/-AKMU is LOVE (It most be LOVE)-000000?style=flat&logo=spotify"/></a>
+
+<h2><strong>💻 Languages: </strong></h2>
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
+<a href="https://skunity.com/"><img src="https://img.shields.io/badge/-Skript-474747?style=flat&logo=Minecraft"/></a>
+
+<h2><strong>🛠️ Development Environment: </strong></h2>
+<a href="https://www.microsoft.com/ko-kr/software-download/windows10"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-4a7558?style=flat&logo=node.js"/></a>
+
+<br><br>
+
+<h2><strong>📞 Contact Me: </strong></h2>
+<a href="https://discordapp.com/users/888619812677386260"><img src="https://img.shields.io/badge/-2nun%230001-000000?style=flat&logo=discord"/></a>
+
+```css
+.2nun{
+    discord: 2nun#0001;
+    twitter: 2nun_e;
+}
+
+```
 
 
-## ⛄ Link ㅣ 🔗
-[<img alt="YouTube" width="40px" src="images/yt.png" />](https://www.youtube.com/channel/UCiDHywbp9Kjhr6sVJQ6GjfQ) **[<img alt="Github" width="40px" src="images/gh.png" />](https://github.com/2nun/)** **[<img alt="Twitter" width="35px" height="35px" src="images/tw.png" />](https://twitter.com/2nun_e)**
+
+<!-- 
+
+<hr style="width:100%;text-align:left;margin-left:0">
+
+![Metrics](https://github.com/seyawhy/seyawhy/blob/main/github-metrics.svg) -->
+
+<!-- snake
+<a href="https://github.com/SeyaWhy">
+    <center><img src="https://github.com/SeyaWhy/SeyaWhy/blob/snake/snake.svg" alt="snake"/></center>
+</a> -->
+
+<!--
+just a second!
+
+How to Snake Contribution Graph?
+-> How_To_Snake_Contribution_Graph.md
+-->
