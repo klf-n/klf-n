@@ -22,4 +22,4 @@
 <h2><strong>📞 Contact Me: </strong></h2>
 
 <br><br>
-<a href="https://discord.com/users/888619812677386260"><img align="left" src="https://lanyard.cnrad.dev/api/888619812677386260?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=어~ 킹아~👍"/></a>
+<a href="https://discord.com/users/888619812677386260"><img align="left" src="https://lanyard.cnrad.dev/api/888619812677386260?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=Hello Guys 👧"/></a>
