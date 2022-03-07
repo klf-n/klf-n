@@ -1,6 +1,6 @@
 <center><h1>2nun's Profile!</h1></center>
 
-<a href="https://nodejs.org"><img src="https://cdn.discordapp.com/attachments/913407821335367721/950314584156291072/56aace927a66f087.png" width="300" align="right"></a>
+<a href="https://2nun.netlify.app/"><img src="https://cdn.discordapp.com/attachments/913407821335367721/950314584156291072/56aace927a66f087.png" width="300" align="right"></a>
 
 <p>Member of <strong>ScordBox</strong></p>
 
