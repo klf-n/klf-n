@@ -23,5 +23,6 @@
 <h2><strong>📞 Contact Me: </strong></h2>
 
 <br><br>
-<a href=""><img src="https://img.shields.io/badge/-contact@culpung.xyz-242424?style=flat&logo=Mail.Ru"/></a>
+<a href=""><img src="https://img.shields.io/badge/-contact@culpung.xyz-000000?style=flat&logo=gmail"/></a>
+<br></br>
 <a href="https://discord.com/users/888619812677386260"><img align="left" src="https://lanyard.cnrad.dev/api/888619812677386260?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=Hi"/></a>
