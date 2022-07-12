@@ -13,9 +13,10 @@
 <a href="https://skunity.com/"><img src="https://img.shields.io/badge/-Skript-474747?style=flat&logo=Minecraft"/></a>
 
 <h2><strong>🛠️ Development Environment: </strong></h2>
-<a href="https://www.apple.com/kr/macos/monterey/"><img src="https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple"/></a>
+<a href="https://www.microsoft.com/en-us/windows/get-windows-11?icid=MSCOM_QL_Windows"><img src="https://img.shields.io/badge/-Windows 11-00d2ff?style=flat&logo=windows"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-4a7558?style=flat&logo=node.js"/></a>
+<a href="https://github.com/microsoft/terminal"><img src="https://img.shields.io/badge/-Windows Terminal-242424?style=flat&logo=Windows Terminal"/></a>
 
 <br><br>
 
