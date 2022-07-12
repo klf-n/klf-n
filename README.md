@@ -1,4 +1,4 @@
-<center><h1>2nun's Profile!</h1></center>
+<center><h1>Klfn's Profile!</h1></center>
 
 <a href="https://2nun.netlify.app/"><img src="https://avatars.githubusercontent.com/u/97512153?v=4" width="300" align="right"></a>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv?si=COqUWzrLTo6fTP1d9HXJqg"><img src="https://img.shields.io/badge/-AKMU is LOVE (It most be LOVE)-000000?style=flat&logo=spotify"/></a>
+<a href="https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"><img src="https://img.shields.io/badge/-Isegye Idol-000000?style=flat&logo=spotify"/></a>
 
 <h2><strong>💻 Languages: </strong></h2>
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
