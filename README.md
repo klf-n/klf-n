@@ -2,7 +2,7 @@
 
 <a href="https://www.klfn.site/"><img src="https://avatars.githubusercontent.com/u/97512153?v=4" width="300" align="right"></a>
 
-<p>Member of <strong>ScordBox</strong></p>
+<p>Member of <strong>SENSLAVVE</strong></p>
 
 <br>
 
