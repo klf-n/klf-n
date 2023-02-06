@@ -2,8 +2,6 @@
 
 <a href="https://www.klfn.site/"><img src="https://avatars.githubusercontent.com/u/97512153?v=4" width="300" align="right"></a>
 
-<p>Member of <strong>SENSLAVVE</strong></p>
-
 <br>
 
 <a href="https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"><img src="https://img.shields.io/badge/-Isegye Idol-000000?style=flat&logo=spotify"/></a>
