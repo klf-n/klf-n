@@ -7,7 +7,6 @@
 <a href="https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"><img src="https://img.shields.io/badge/-Isegye Idol-000000?style=flat&logo=spotify"/></a>
 
 <h2><strong>💻 Languages: </strong></h2>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css"><img src="https://img.shields.io/badge/-css-1572b6?style=flat&logo=CSS3"/></a>
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-4a7558?style=flat&logo=node.js"/></a>
 
