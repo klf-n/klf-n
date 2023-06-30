@@ -1,24 +1,56 @@
-<center><h1>Klfn's Profile!</h1></center>
+<h1 align="left">Hello 👋! I'm Klfn!<br><p>I'm Korean Web Designer!</p></h2>
 
-<a href="https://www.klfn.site/"><img src="https://avatars.githubusercontent.com/u/97512153?v=4" width="300" align="right"></a>
+###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=klf-n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klf-n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<a href="https://www.klfn.site/"><img align="right" height="150" src="https://avatars.githubusercontent.com/u/97512153?v=4" /></a>
+
+###
+
+<h2>Web Dev Skills</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  
+  ###
+  
+  <h2>Web Design Skills</h2>
+  
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" height="30" alt="figma logo"  />
+  <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="30" alt="adobeps logo"  />
+  <img width="12" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" height="30" alt="adobexd logo"  />
+  <img width="12" />
+</div>
+
+###
 <br>
+<h2>Links</h2>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" style="border-radius: 12px;"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" style="border-radius: 12px;"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" style="border-radius: 12px;"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" style="border-radius: 12px;"  />
 
-<a href="https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"><img src="https://img.shields.io/badge/-Isegye Idol-000000?style=flat&logo=spotify"/></a>
+###
 
-<h2><strong>💻 Languages: </strong></h2>
-<a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-4a7558?style=flat&logo=node.js"/></a>
+<br clear="both">
 
-<h2><strong>🛠️ Development Environment: </strong></h2>
-<a href="https://www.microsoft.com/en-us/windows/get-windows-11?icid=MSCOM_QL_Windows"><img src="https://img.shields.io/badge/-Windows 11-00d2ff?style=flat&logo=windows"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
-<a href="https://github.com/microsoft/terminal"><img src="https://img.shields.io/badge/-Windows Terminal-242424?style=flat&logo=Windows Terminal"/></a>
+<img src="https://cdn.discordapp.com/attachments/913407821335367721/1124218092722069646/github-user-contribution.svg" alt="Snake animation" />
 
-<br><br>
-
-<h2><strong>📞 Contact Me: </strong></h2>
-
-<a><img src="https://img.shields.io/badge/-go.zip@klfn.dev-000000?style=flat&logo=gmail"/></a>
-<br></br>
-<a href="https://discord.com/users/888619812677386260"><img align="left" src="https://lanyard.cnrad.dev/api/888619812677386260?bg=2E3440&animated=true&hideBadges=true&borderRadius=10px&idleMessage=Hi"/></a>
+###
