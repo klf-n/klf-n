@@ -42,6 +42,6 @@
 ###
 
 
-<img src="https://cdn.discordapp.com/attachments/913407821335367721/1124218821209751614/github-user-contribution.svg" alt="Snake animation" />
+<img src="./images/github-user-contribution.svg" alt="Snake animation" />
 
 ###
